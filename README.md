@@ -1,5 +1,5 @@
 # TMTASL
-Source code for the album TMTASL. To run any songs, use [Sonic Pi](https://sonic-pi.net/) and first edit and run config.rb. You can find a recorded version of this album [here](https://beguiledbyguillotining.bandcamp.com/album/tmtasl).
+Source code for the EP TMTASL. To run any songs, use [Sonic Pi](https://sonic-pi.net/) and first edit and run config.rb. You can find a recorded version of this EP [here](https://beguiledbyguillotining.bandcamp.com/album/tmtasl).
 
 Songs:
 1. Biblical Magi
