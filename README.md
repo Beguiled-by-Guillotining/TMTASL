@@ -18,4 +18,4 @@ Some songs use synths from [SCLOrkSynths](https://github.com/SCLOrkHub/SCLOrkSyn
 Song title for song 6 from Mrs. Wilson's Cook Book.
 
 All .wav files are licensed under the CC-BY-SA-4.0 license (see file CC-BY-SA-4.0 LICENSE).
-All other files are licensed under the GNU GPLv3 license (see file GNU GPLv3 LICENSE).
+All other files are licensed under the GNU GPLv2 license (see file GNU GPLv2 LICENSE).
