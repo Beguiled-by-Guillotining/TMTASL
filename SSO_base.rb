@@ -2,7 +2,7 @@
 #orginally written by Robin Newman, March 2016
 
 #path to library samples folder (including trailing /)
-path = 'D:/samples/Sonatina Symphonic Orchestra/Samples/'
+path = SSO_SAMPLES_DIR()
 
 #create array of instrument details
 voices=[['1st Violins piz','1st Violins','1st-violins-piz-rr1-',1,:g3,:b6],\
